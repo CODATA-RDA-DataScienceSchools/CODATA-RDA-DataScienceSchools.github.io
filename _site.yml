@@ -1,0 +1,19 @@
+name: "CODATA RDA Schools links"
+navbar:
+  title: "HOME"
+  left:
+    - text: "About us"
+      href: about.html
+    - text: "Our partners"
+      href: partners.html
+    - text: "Getting Involved"
+      href: getting_involved.html
+    - text: "Presentations"
+      href: presentations.html
+output_dir: "."
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+#    include:
+#      after_body: _footer.html
