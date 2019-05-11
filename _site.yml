@@ -13,7 +13,7 @@ navbar:
 output_dir: "."
 output:
   html_document:
-    theme: yeti
-    highlight: textmate
+    theme: spacelab
+    highlight: tango
 #    include:
 #      after_body: _footer.html
