@@ -1,0 +1,41 @@
+---
+title: "Data Steward School Pilot"
+output: html_document
+---
+
+---
+
+The [CODATA-RDA Research Data Science Summer School](http://www.codata.org/working-groups/research-data-science-summer-schools/datatrieste-2019) provides training in the foundational skills of Research Data Science.  Contemporary research – particularly when addressing the most significant, transdisciplinary research challenges – cannot be done effectively without a range of skills relating to data.  
+
+The school is held at the [International Centre for Theoretical Physics](https://www.ictp.it/). The venue, the Adriatico Guest House, is a delightful self-contained site, overlooking the sea,where there is accommodation, lecture halls, a terminal room and a canteen.  The accommodation and subsistence is heavily subsidised. 
+
+![Adriatico Guesthouse](./Adriatico.jpg){#id .class width=500}
+
+**This year the school will be running a parallel strand that is oriented to
+students who are interested in Data Stewardship.** 
+
+The curriculum for these students will be 
+
+* Open Science
+* Introduction to Unix Shell
+* Programming for Analysis
+* Git
+* Research Data Management
+* Author Carpentry
+* Introduction to Information Security
+* Metadata & Persistent Identifiers
+* Data discovery and automated DMP's
+* Repositories
+* Ontologies
+* Linked data
+
+This school is a pilot for a series of CODATA-RDA schools that will run in Europe as part of the [FAIRsFAIR initiative](https://www.fairsfair.eu).
+
+The detailed programme can be found [here](./DataTrieste2019Programme/Timetable.html). 
+
+There is space for 5 students who wish to take the Data Steward strand.
+Students wishing to attend this strand will need to cover their accomodation and travel expenses to the school but there are no registration fees.
+
+As this is a pilot students attending this strand will be interviewed afterwards to get feedback to improve the curriculum.
+
+Candidates interested in attending should contact the  director of the Pilot strnd, [Hugh Shanahan](mailto://hugh.shanahan@rhul.ac.uk) before June 1. 
