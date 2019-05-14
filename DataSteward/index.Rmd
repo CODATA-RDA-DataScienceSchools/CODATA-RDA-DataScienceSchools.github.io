@@ -35,7 +35,7 @@ The curriculum for these students will be
 
 The first week of the school will be for both Early Career Reseachers (ECR's) and Data Stewards. The seocnd week will break into two parallel strands, one focussing on Data Science techniques for ECR's and the other for Data Stewards. 
 
-The detailed programme can be found [here](./DataTrieste2019Programme/Timetable.html) with a breakdown of the shared and separate courses.
+The provisional detailed programme can be found [here](./DataTrieste2019Programme/Timetable.html) with a breakdown of the shared and separate courses.
 
 Graduate students or ECR's considering a career in Data Stewardship and Early Career Data Stewards would benefit most from this school.
 
@@ -47,3 +47,5 @@ Students wishing to attend this strand will need to cover their accomodation and
 As this is a pilot students attending this strand will be interviewed afterwards to get feedback to improve the curriculum.
 
 Candidates interested in attending should contact the  director of the Data Steward strand, [Hugh Shanahan](mailto://hugh.shanahan@rhul.ac.uk) before June 1. 
+
+*This document was created on `r format(Sys.time(),"%a %b %d %Y")`*
