@@ -7,7 +7,7 @@ output: html_document
 
 The [CODATA-RDA Research Data Science Summer School](http://www.codata.org/working-groups/research-data-science-summer-schools/datatrieste-2019) provides training in the foundational skills of Research Data Science.  Contemporary research – particularly when addressing the most significant, transdisciplinary research challenges – cannot be done effectively without a range of skills relating to data.  
 
-The school is held at the [International Centre for Theoretical Physics](https://www.ictp.it/ running from August 5-16. The venue, the Adriatico Guest House, is a delightful self-contained site, overlooking the sea,where there is accommodation, lecture halls, a terminal room and a canteen.  
+The school is held at the [International Centre for Theoretical Physics](https://www.ictp.it/) running from August 5-16. The venue, the Adriatico Guest House, is a delightful self-contained site, overlooking the sea,where there is accommodation, lecture halls, a terminal room and a canteen.  
 
 <center>
 ![Adriatico Guesthouse](./Adriatico.jpg){#id .class width=500}
