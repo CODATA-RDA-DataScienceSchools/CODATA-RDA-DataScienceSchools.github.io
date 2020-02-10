@@ -1,0 +1,188 @@
+baseURL: http://something-fresh.org/
+languageCode: en-us
+title: CODATA-RDA Schools of Research Data Science
+theme: hugo-fresh
+googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
+# Disables warnings
+disableKinds:
+- taxonomy
+- taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allows you to write raw html in your md files
+
+params:
+  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
+  openGraph: true
+  # Used as meta data; describe your site to make Google Bots happy 
+  description: 
+  navbarlogo:
+  # Logo (from static/images/logos/___)
+    image: logos/logo.png
+    link: /
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    # Main hero title
+    title: CODATA-RDA Schools of Research Data Science.
+    # Hero subtitle (optional)
+    subtitle: Building core data science skills and introducing open tools and resources for researchers.
+    # Button text
+    buttontext: About Us
+    # Where the main hero button links to
+    buttonlink: "/about"
+    # Hero image (from static/images/___)
+    image: illustrations/worker.svg
+    # Footer logos (from static/images/logos/clients/___.svg)
+    clientlogos:
+    - codata.png
+    - rda.png
+    - ictp.png
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+  - title: About
+    url: /about
+  - title: The Schools
+    sublinks:
+    - title: Motivation
+      url: /schools/motivation
+    - title: Reproducing the School
+      url: /schools/reproducing-the-school
+    - title: History
+      url: /schools/history
+    - title: The Current Curriculum
+      url: /schools/curriculum
+  - title: Partners
+    url: /partners
+#  - title: Log in
+#    url: /
+#  - title: Sign up
+#    url: /
+#    button: true
+  section1:
+    title: Who are We?
+    subtitle: 
+    tiles:
+    - title: About Us?
+      icon: mouse-globe
+      text: Group of dedicated Open Science and Open Data enthusiasts.
+      url: /
+      buttonText: About Us
+    - title: Our Vision
+      icon: mouse-globe
+      text: Grow a network of host institutions, instructors, assistants and helpers.
+      url: /
+      buttonText: Vision
+    - title: Our Philosophy
+      icon: laptop-cloud
+      text: Increasing research capacity, as it relates to data in Low and Middle Income Countries.
+      url: /
+      buttonText: Philosophy
+  section2:
+    title: What areas do we cover on the curriculum?
+    subtitle: 
+    features:
+    - title: Principles and practices of Open Science
+      icon: check-mark
+    - title: FAIR data and using data ethically
+      icon: check-mark
+    - title: An introduction to research data management and the research data lifecycle
+      icon: check-mark
+    - title: How to prepare a data management plan
+      icon: check-mark
+    - title: Introduction to persistent identifiers and licensing
+      icon: check-mark
+    - title: A grounding in how to compile bibliographies
+      icon: check-mark
+    - title: How to find data more efficiently
+      icon: check-mark
+    - title: How to publish data
+      icon: check-mark
+    - title: Software and data carpentry
+      icon: check-mark
+    - title: How to use Github
+      icon: check-mark
+    - title: Introduction to theory and practice of visualisation
+      icon: check-mark
+    - title: Introduction to machine learning
+      icon: check-mark
+    - title: Grounding in use of computational research infrastructures
+      icon: check-mark
+
+#    - title: Powerful and unified interface
+#      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+#      # Icon (from /images/illustrations/icons/___.svg)
+#      icon: laptop-globe
+#    - title: Cross-device synchronisation
+#      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+#      icon: doc-sync
+#    - title: Nomad system
+#      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+#      icon: mobile-feed
+  section3: false
+#  section3:
+#    title: One platform
+#    subtitle: To rule them all
+#    image: illustrations/mockups/app-mockup.png
+#    buttonText: Get started
+#    buttonLink: "#"
+  section4:
+    title: Previous School's Testimonies
+    subtitle: 
+    clients:
+    - name: Irma Walters
+      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      job: Student
+      img: 1
+    - name: John Bradley
+      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      job: Pos-doc
+      img: 2
+    - name: Gary Blackman
+      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      job: Professor
+      img: 3
+  section5: false
+  footer:
+    # Logo (from /images/logos/___)
+    logo: logo.png
+    # Social Media Title
+    socialmediatitle: Follow Us
+    # Social media links (GitHub, Twitter, etc.). All are optional.
+    socialmedia:
+    - link: https://github.com/CODATA-RDA-DataScienceSchools/
+      # Icons are from Font Awesome
+      icon: github
+#    - link: https://dribbble.com/#
+#      icon: dribbble
+#    - link: https://facebook.com/#
+#      icon: facebook
+    - link: https://twitter.com/DataSciSchools
+      icon: twitter
+#    - link: https://bitbucket.org/#
+#      icon: bitbucket
+    bulmalogo: true
+    quicklinks:
+      column1:
+        title: "About"
+        links:
+        - text: What is the School of Research Data Science?
+          link: /about#what-is
+        - text: Our Mission
+          link: /about#our-mission
+      column2:
+        title: "The Schools"
+        links:
+        - text: Reproducing the School
+          link: /schools/reproducing-the-school
+        - text: History
+          link: /schools/history
+      column3:
+        title: "Blog"
+        links:
+        - text: Latest news
+          link: /blog/first
+        - text: Tech articles
+          link: /blog/second

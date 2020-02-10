@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   _SVGFile__filename="oldscale/actions/button_accept.svg"
+   sodipodi:docname="check-mark.svg"
+   sodipodi:version="0.32"
+   version="1.0"
+   viewBox="0 0 60 60"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     bordercolor="#666666"
+     borderopacity="1.0"
+     pagecolor="#ffffff"
+     id="namedview2"
+     showgrid="false"
+     inkscape:zoom="3.9333333"
+     inkscape:cx="8.1355932"
+     inkscape:cy="30"
+     inkscape:window-width="944"
+     inkscape:window-height="1030"
+     inkscape:window-x="964"
+     inkscape:window-y="8"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <path
+     d="m4.6873 31.376c6.4437 5.864 10.608 11.142 17.501 23.374 14.984-37.823 35.502-47.534 32.9-49.208-5.264-3.5325-30.874 26.075-33.971 29.981-3.724-1.972-16.43-8.865-16.43-4.147z"
+     fill="none"
+     stroke="#fff"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width="8.125"
+     id="path4" />
+  <path
+     d="m4.6873 31.376c6.4437 5.864 10.608 11.142 17.501 23.374 14.984-37.823 35.502-47.534 32.9-49.208-5.264-3.5325-30.874 26.075-33.971 29.981-3.724-1.972-16.43-8.865-16.43-4.147z"
+     fill="#62b01e"
+     fill-rule="evenodd"
+     stroke="#62b01e"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width="3.125"
+     id="path6"
+     style="fill:#85abff;fill-opacity:1;stroke:#ffda85;stroke-opacity:0;opacity:1" />
+</svg>
