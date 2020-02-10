@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://something-fresh.org/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://something-fresh.org/agb/</loc>
+  </url>
+  
+  <url>
+    <loc>http://something-fresh.org/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>http://something-fresh.org/</loc>
+  </url>
+  
+  <url>
+    <loc>http://something-fresh.org/blog/first/</loc>
+  </url>
+  
+  <url>
+    <loc>http://something-fresh.org/schools/history/</loc>
+  </url>
+  
+  <url>
+    <loc>http://something-fresh.org/schools/motivation/</loc>
+  </url>
+  
+  <url>
+    <loc>http://something-fresh.org/partners/</loc>
+  </url>
+  
+  <url>
+    <loc>http://something-fresh.org/schools/reproducing-the-school/</loc>
+  </url>
+  
+  <url>
+    <loc>http://something-fresh.org/schools/</loc>
+  </url>
+  
+  <url>
+    <loc>http://something-fresh.org/blog/second/</loc>
+  </url>
+  
+</urlset>

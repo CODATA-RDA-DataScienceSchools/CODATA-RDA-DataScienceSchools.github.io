@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CODATA-RDA Schools of Research Data Science</title>
+    <link>http://something-fresh.org/</link>
+    <description>Recent content on CODATA-RDA Schools of Research Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://something-fresh.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Us</title>
+      <link>http://something-fresh.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/about/</guid>
+      <description>What is the School of Research Data Science? 
+A programme of short courses equipping young researchers globally with core data skills.
+
+Our schools provide young researchers with the core skills that will allow them to be more effective and efficient in the work they do, to analyse the data at their disposal and to take advantage of the emerging culture of Open Science.
+
+The primary goal of the Research Data Science School is to teach foundational Data Science skills to Early Career Researchers in LMICs, with a related goal of regionalizing training capacity by growing a community of alumni, instructors, classroom helpers, and hosting institutions.</description>
+    </item>
+    
+    <item>
+      <title>AGB</title>
+      <link>http://something-fresh.org/agb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/agb/</guid>
+      <description>§1 Lorem Bacon ipsum dolor amet pig pork hamburger tenderloin burgdoggen spare ribs bacon pancetta pork loin tail turducken. Chicken pastrami jerky tongue ball tip strip steak. Ball tip alcatra turkey, cupim strip steak swine short loin tenderloin pancetta corned beef ribeye cow short ribs. Turkey turducken flank filet mignon beef ribs pastrami rump, andouille prosciutto picanha kevin strip steak. Corned beef fatback landjaeger hamburger alcatra, bacon buffalo tongue cow biltong salami sirloin swine.</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://something-fresh.org/blog/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/blog/first/</guid>
+      <description>My super sweet first blog post!!</description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>http://something-fresh.org/schools/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/schools/history/</guid>
+      <description>The School’s Progress 
+The first of the schools ran in August 2016 at the International Centre for Theoretical Physics (ICTP) in Trieste, Italy. It was a huge success, delivering the school to 67 students from over 30 countries. The second school, also based at ICTP, in July 2017 was a similar success, with an additional advanced school in the week following it.
+
+Pictures from the First School
+[Day 2]</description>
+    </item>
+    
+    <item>
+      <title>Motivation</title>
+      <link>http://something-fresh.org/schools/motivation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/schools/motivation/</guid>
+      <description>Why the Schools? 
+The ever-increasing volume and variety of data being generated impacts academia and the private sector. Contemporary research and evidence-based decision making cannot be done effectively without a range of data-related skills, such as, but not limited to, the principles and practice of Open Science, research data management and curation, data platforms and infrastructures implementation, data analysis, statistics, visualisation and modelling techniques, software development, and annotation. We define ‘Research Data Science’ as the ensemble of these skills.</description>
+    </item>
+    
+    <item>
+      <title>Partners</title>
+      <link>http://something-fresh.org/partners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/partners/</guid>
+      <description>RDA and CODATA 
+The RDA and CODATA are leading international organisations aiming to facilitate research data sharing and accessibility. CODATA, established 40 years ago, works to improve the accessibility to data of importance to all fields of science and technology and has a long track record in working with Developing World countries. They develop policy recommendations to enhance data sharing and re-use, promote good data practices, explores frontier issues in data science and advances education and training in data skills.</description>
+    </item>
+    
+    <item>
+      <title>Reproducing the School</title>
+      <link>http://something-fresh.org/schools/reproducing-the-school/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/schools/reproducing-the-school/</guid>
+      <description>We have been putting in place mechanisms to ensure that the schools are as pedagogically effective as possible and that they can be easily reproduced elsewhere. To achieve this, we invite students who attended previous schools to take part as helpers in later schools. Through this approach, such students can become more involved and ultimately be involved in running instances of schools in their region.</description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>http://something-fresh.org/blog/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/blog/second/</guid>
+      <description>My awesome blogpost My super sweet second blog post</description>
+    </item>
+    
+  </channel>
+</rss>
