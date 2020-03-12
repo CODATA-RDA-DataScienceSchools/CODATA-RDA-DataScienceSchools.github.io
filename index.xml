@@ -12,10 +12,10 @@
     
     <item>
       <title>About Us</title>
-      <link>http://something-fresh.org/about/</link>
+      <link>http://something-fresh.org/about/about-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://something-fresh.org/about/</guid>
+      <guid>http://something-fresh.org/about/about-us/</guid>
       <description>What is the School of Research Data Science? 
 A programme of short courses equipping young researchers globally with core data skills.
 
@@ -31,15 +31,6 @@ The primary goal of the Research Data Science School is to teach foundational Da
       
       <guid>http://something-fresh.org/agb/</guid>
       <description>§1 Lorem Bacon ipsum dolor amet pig pork hamburger tenderloin burgdoggen spare ribs bacon pancetta pork loin tail turducken. Chicken pastrami jerky tongue ball tip strip steak. Ball tip alcatra turkey, cupim strip steak swine short loin tenderloin pancetta corned beef ribeye cow short ribs. Turkey turducken flank filet mignon beef ribs pastrami rump, andouille prosciutto picanha kevin strip steak. Corned beef fatback landjaeger hamburger alcatra, bacon buffalo tongue cow biltong salami sirloin swine.</description>
-    </item>
-    
-    <item>
-      <title>First</title>
-      <link>http://something-fresh.org/blog/first/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://something-fresh.org/blog/first/</guid>
-      <description>My super sweet first blog post!!</description>
     </item>
     
     <item>
@@ -67,11 +58,11 @@ The ever-increasing volume and variety of data being generated impacts academia 
     
     <item>
       <title>Partners</title>
-      <link>http://something-fresh.org/partners/</link>
+      <link>http://something-fresh.org/about/codata-rda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://something-fresh.org/partners/</guid>
-      <description>RDA and CODATA 
+      <guid>http://something-fresh.org/about/codata-rda/</guid>
+      <description>CODATA and RDA 
 The RDA and CODATA are leading international organisations aiming to facilitate research data sharing and accessibility. CODATA, established 40 years ago, works to improve the accessibility to data of importance to all fields of science and technology and has a long track record in working with Developing World countries. They develop policy recommendations to enhance data sharing and re-use, promote good data practices, explores frontier issues in data science and advances education and training in data skills.</description>
     </item>
     
@@ -91,6 +82,97 @@ The RDA and CODATA are leading international organisations aiming to facilitate 
       
       <guid>http://something-fresh.org/blog/second/</guid>
       <description>My awesome blogpost My super sweet second blog post</description>
+    </item>
+    
+    <item>
+      <title>Under Construction</title>
+      <link>http://something-fresh.org/about/members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/about/members/</guid>
+      <description>Comming Soon.</description>
+    </item>
+    
+    <item>
+      <title>Under Construction</title>
+      <link>http://something-fresh.org/acknowledgements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/acknowledgements/</guid>
+      <description>Comming Soon.</description>
+    </item>
+    
+    <item>
+      <title>Under Construction</title>
+      <link>http://something-fresh.org/blog/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/blog/news/</guid>
+      <description>Comming Soon.</description>
+    </item>
+    
+    <item>
+      <title>Under Construction</title>
+      <link>http://something-fresh.org/blog/tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/blog/tech/</guid>
+      <description>Comming Soon.</description>
+    </item>
+    
+    <item>
+      <title>Under Construction</title>
+      <link>http://something-fresh.org/get-involved/become-a-helper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/get-involved/become-a-helper/</guid>
+      <description>Comming Soon.</description>
+    </item>
+    
+    <item>
+      <title>Under Construction</title>
+      <link>http://something-fresh.org/get-involved/become-a-supporter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/get-involved/become-a-supporter/</guid>
+      <description>Comming Soon.</description>
+    </item>
+    
+    <item>
+      <title>Under Construction</title>
+      <link>http://something-fresh.org/get-involved/become-an-instructor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/get-involved/become-an-instructor/</guid>
+      <description>Comming Soon.</description>
+    </item>
+    
+    <item>
+      <title>Under Construction</title>
+      <link>http://something-fresh.org/partners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/partners/</guid>
+      <description>Comming Soon.</description>
+    </item>
+    
+    <item>
+      <title>Under Construction</title>
+      <link>http://something-fresh.org/schools/testimonials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/schools/testimonials/</guid>
+      <description>Comming Soon.</description>
+    </item>
+    
+    <item>
+      <title>Upcoming Schools</title>
+      <link>http://something-fresh.org/schools/upcoming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/schools/upcoming/</guid>
+      <description>2020 Schools 
+ #DataTrieste 2020, ICTP, Trieste, 5-16 August 2020 #DataSaoPaulo 2020, CODATA-RDA School of Research Data Science, ICTP, São Paulo, 3-14 December 2020  </description>
     </item>
     
   </channel>

@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://something-fresh.org/about/about-us/</loc>
+  </url>
+  
+  <url>
     <loc>http://something-fresh.org/about/</loc>
   </url>
   
@@ -19,7 +23,7 @@
   </url>
   
   <url>
-    <loc>http://something-fresh.org/blog/first/</loc>
+    <loc>http://something-fresh.org/get-involved/</loc>
   </url>
   
   <url>
@@ -31,7 +35,7 @@
   </url>
   
   <url>
-    <loc>http://something-fresh.org/partners/</loc>
+    <loc>http://something-fresh.org/about/codata-rda/</loc>
   </url>
   
   <url>
@@ -44,6 +48,46 @@
   
   <url>
     <loc>http://something-fresh.org/blog/second/</loc>
+  </url>
+  
+  <url>
+    <loc>http://something-fresh.org/about/members/</loc>
+  </url>
+  
+  <url>
+    <loc>http://something-fresh.org/acknowledgements/</loc>
+  </url>
+  
+  <url>
+    <loc>http://something-fresh.org/blog/news/</loc>
+  </url>
+  
+  <url>
+    <loc>http://something-fresh.org/blog/tech/</loc>
+  </url>
+  
+  <url>
+    <loc>http://something-fresh.org/get-involved/become-a-helper/</loc>
+  </url>
+  
+  <url>
+    <loc>http://something-fresh.org/get-involved/become-a-supporter/</loc>
+  </url>
+  
+  <url>
+    <loc>http://something-fresh.org/get-involved/become-an-instructor/</loc>
+  </url>
+  
+  <url>
+    <loc>http://something-fresh.org/partners/</loc>
+  </url>
+  
+  <url>
+    <loc>http://something-fresh.org/schools/testimonials/</loc>
+  </url>
+  
+  <url>
+    <loc>http://something-fresh.org/schools/upcoming/</loc>
   </url>
   
 </urlset>

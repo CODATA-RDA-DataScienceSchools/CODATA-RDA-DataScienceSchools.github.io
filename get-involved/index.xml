@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Get-involveds on CODATA-RDA Schools of Research Data Science</title>
+    <link>http://something-fresh.org/get-involved/</link>
+    <description>Recent content in Get-involveds on CODATA-RDA Schools of Research Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://something-fresh.org/get-involved/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Under Construction</title>
+      <link>http://something-fresh.org/get-involved/become-a-helper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/get-involved/become-a-helper/</guid>
+      <description>Comming Soon.</description>
+    </item>
+    
+    <item>
+      <title>Under Construction</title>
+      <link>http://something-fresh.org/get-involved/become-a-supporter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/get-involved/become-a-supporter/</guid>
+      <description>Comming Soon.</description>
+    </item>
+    
+    <item>
+      <title>Under Construction</title>
+      <link>http://something-fresh.org/get-involved/become-an-instructor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/get-involved/become-an-instructor/</guid>
+      <description>Comming Soon.</description>
+    </item>
+    
+  </channel>
+</rss>

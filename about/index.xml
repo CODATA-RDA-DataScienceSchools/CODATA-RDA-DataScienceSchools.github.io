@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on CODATA-RDA Schools of Research Data Science</title>
+    <link>http://something-fresh.org/about/</link>
+    <description>Recent content in Abouts on CODATA-RDA Schools of Research Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://something-fresh.org/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Us</title>
+      <link>http://something-fresh.org/about/about-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/about/about-us/</guid>
+      <description>What is the School of Research Data Science? 
+A programme of short courses equipping young researchers globally with core data skills.
+
+Our schools provide young researchers with the core skills that will allow them to be more effective and efficient in the work they do, to analyse the data at their disposal and to take advantage of the emerging culture of Open Science.
+
+The primary goal of the Research Data Science School is to teach foundational Data Science skills to Early Career Researchers in LMICs, with a related goal of regionalizing training capacity by growing a community of alumni, instructors, classroom helpers, and hosting institutions.</description>
+    </item>
+    
+    <item>
+      <title>Partners</title>
+      <link>http://something-fresh.org/about/codata-rda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/about/codata-rda/</guid>
+      <description>CODATA and RDA 
+The RDA and CODATA are leading international organisations aiming to facilitate research data sharing and accessibility. CODATA, established 40 years ago, works to improve the accessibility to data of importance to all fields of science and technology and has a long track record in working with Developing World countries. They develop policy recommendations to enhance data sharing and re-use, promote good data practices, explores frontier issues in data science and advances education and training in data skills.</description>
+    </item>
+    
+    <item>
+      <title>Under Construction</title>
+      <link>http://something-fresh.org/about/members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/about/members/</guid>
+      <description>Comming Soon.</description>
+    </item>
+    
+  </channel>
+</rss>

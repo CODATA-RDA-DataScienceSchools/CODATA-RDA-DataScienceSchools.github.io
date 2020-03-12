@@ -42,5 +42,24 @@ The ever-increasing volume and variety of data being generated impacts academia 
       <description>We have been putting in place mechanisms to ensure that the schools are as pedagogically effective as possible and that they can be easily reproduced elsewhere. To achieve this, we invite students who attended previous schools to take part as helpers in later schools. Through this approach, such students can become more involved and ultimately be involved in running instances of schools in their region.</description>
     </item>
     
+    <item>
+      <title>Under Construction</title>
+      <link>http://something-fresh.org/schools/testimonials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/schools/testimonials/</guid>
+      <description>Comming Soon.</description>
+    </item>
+    
+    <item>
+      <title>Upcoming Schools</title>
+      <link>http://something-fresh.org/schools/upcoming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/schools/upcoming/</guid>
+      <description>2020 Schools 
+ #DataTrieste 2020, ICTP, Trieste, 5-16 August 2020 #DataSaoPaulo 2020, CODATA-RDA School of Research Data Science, ICTP, São Paulo, 3-14 December 2020  </description>
+    </item>
+    
   </channel>
 </rss>
