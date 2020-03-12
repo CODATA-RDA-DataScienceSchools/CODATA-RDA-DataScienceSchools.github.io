@@ -32,7 +32,7 @@ params:
     # Button text
     buttontext: About Us
     # Where the main hero button links to
-    buttonlink: "/about"
+    buttonlink: "/about/about-us"
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
     # Footer logos (from static/images/logos/clients/___.svg)
@@ -43,19 +43,47 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: About
-    url: /about
-  - title: The Schools
     sublinks:
-    - title: Motivation
+    - title: About Us
+      url: /about/about-us
+    - title: CODATA-RDA Initiative
+      url: /about/codata-rda
+    - title: Members
+      url: /about/members
+  - title: Schools
+    sublinks:
+    - title: History
+      url: /schools/history
+    - title: Upcoming Schools
+      url: /schools/upcoming
+    - title: Audience
       url: /schools/motivation
     - title: Reproducing the School
       url: /schools/reproducing-the-school
-    - title: History
-      url: /schools/history
-    - title: The Current Curriculum
-      url: /schools/curriculum
+    - title: Materials
+      url: https://github.com/CODATA-RDA-DataScienceSchools/Materials
+    - title: Alumni Testimonials
+      url: /schools/testimonials
+  - title: Get Involved
+    sublinks:
+    - title: Become an Instructor
+      url: /get-involved/become-an-instructor
+    - title: Become a Helper
+      url: /get-involved/become-a-helper
+    - title: Become a Future Host
+      url: https://drive.google.com/file/d/1bL2WhHzMeIzH9OBaEqWMA0t3x-fsysB9/view?usp=sharing
+    - title: Become a Supporter (donate)
+      url: /get-involved/become-a-supporter
+  - title: Blog
+    sublinks:
+    - title: Latest News
+      url: /blog/news
+    - title: Tech Articles
+      url: /blog/tech
   - title: Partners
     url: /partners
+  - title: Acknowledgements
+    url: /acknowledgements
 #  - title: Log in
 #    url: /
 #  - title: Sign up
@@ -169,9 +197,9 @@ params:
         title: "About"
         links:
         - text: What is the School of Research Data Science?
-          link: /about#what-is
+          link: /about/about-us#what-is
         - text: Our Mission
-          link: /about#our-mission
+          link: /about/about-us/#our-mission
       column2:
         title: "The Schools"
         links:
@@ -183,6 +211,6 @@ params:
         title: "Blog"
         links:
         - text: Latest news
-          link: /blog/first
+          link: /blog/news
         - text: Tech articles
-          link: /blog/second
+          link: /blog/techs
