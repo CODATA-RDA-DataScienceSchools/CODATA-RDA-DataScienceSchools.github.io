@@ -15,14 +15,20 @@ Hosts are required to provide a venue for the School, keeping in mind that a goo
 * High table or podium that instructor can stand at while teaching. A flat podium is important; it’s difficult to use a laptop on a slanted podium.
 * If possible, air conditioning or good ventilation if the venue gets very hot.
 
+<br />
+
 <a id="accommodation">{{% title3 "Accommodation" %}}</a>
 
 * Accommodation should be provided for students and speakers. Ideally this would be on-site, walking distance, or reasonably accessible via public transport links. Students typically share twin rooms while speakers have a private single room.
 * Accommodation facilities should have reliable (Wi-Fi) internet connections.
 
+<br />
+
 <a id="catering">{{% title3 "Catering/Refreshments" %}}</a>
 
 * People learn better when they are well fed. Therefore, catering for coffee breaks should be provided on-site, whereas lunch options should be provided on-site or close-by. They also won’t lose as much instructional time if they don’t have to leave to get coffee/lunch.
+
+<br />
 
 <a id="equipment">{{% title3 "Equipment and Materials" %}}</a>
 
@@ -32,6 +38,8 @@ Hosts are required to provide a venue for the School, keeping in mind that a goo
 * Extra pens and paper in case people want to take notes by hand.
 * Sign in sheets (attendance lists - one for each day).
 * Flipchart or whiteboard with felt-tip pen (ideally several in different colors) for the instructor to visualise concepts or note important details.
+
+<br />
 
 <a id="accessibility">{{% title3 "Accessibility" %}}</a>
 
@@ -46,6 +54,8 @@ Hosts are required to provide a venue for the School, keeping in mind that a goo
 
 **In case some of these cannot be provided for, make sure to state that clearly on the website.**
 
+<br />
+
 <a id="administrative">{{% title3 "Administrative support" %}}</a>
 
 * The local host should assist in the entire administrative process to plan, coordinate and deliver the Schools. This will require regular calls with the Task Group and specific inputs to support the application process and arrange student visas (if required) and travel logistics. 
@@ -53,9 +63,13 @@ Hosts are required to provide a venue for the School, keeping in mind that a goo
 * Depending on the mix of participants, visas may need to be arranged. The host should provide the necessary administrative support for this, and assist students with travel logistics and bookings. The CODATA Task Group will liaise with speakers and seek funding to cover their costs.
 * Some software will need to be installed before the school (for example R and RStudio) and these should be clearly communicated with the students. A list of required software with detailed instructions for installation (for Windows, Linux and Mac OS) should be provided. Support will need to be on hand to deal with installation issues on the first morning of the school.
 
+<br />
+
 <a id="socialmedia">{{% title3 "Social Media" %}}</a>
 
 * The event will be tweeted extensively during the school with the hashtag #data<Location><Year>, e.g. #dataTrieste2016. The organisers will provide a number of group photos and provide the files so that they can also be tweeted. Attendees of the school will be requested to join the Alumni Facebook page and will also be contacted in the future for anonymised longitudinal studies.
+
+<br />
 
 <a id="financialsupport">{{% title3 "Financial Support" %}}</a>
 
@@ -63,9 +77,13 @@ Hosts are required to provide a venue for the School, keeping in mind that a goo
 * While the Task Group has secured a range of sponsorship in the past, particularly to support instructor and helper costs, the local organisers should not rely on the TG to provide financial support for the event.
 * A small fee may be charged to reduce the number of no-shows. These registration fees can also help to cover some of the catering costs.
 
+<br />
+
 <a id="localinstruction">{{% title3 "Local Instruction" %}}</a>
 
 * The Task Group will interview potential local instructors on their suitability. If in the unlikely event that the Task Group cannot secure enough funding to cover external instructors’ expenses, then there should be enough local instructors for the school to go ahead. Make travel arrangements for visiting instructors (or communicate process to reimburse them for expenses). Get emergency contact information for instructors in case of last minute changes.
+
+<br />
 
 <a id="timeline">{{% title3 "Timeline" %}}</a>
 
