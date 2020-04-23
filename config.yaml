@@ -66,12 +66,12 @@ params:
       url: /schools/testimonials
   - title: Get Involved
     sublinks:
-    - title: Become an Instructor
+    - title: Become an Instructor/Helper
       url: /get-involved/become-an-instructor
-    - title: Become a Helper
-      url: /get-involved/become-a-helper
+      #    - title: Become a Helper
+      #url: /get-involved/become-a-helper
     - title: Become a Future Host
-      url: https://drive.google.com/file/d/1bL2WhHzMeIzH9OBaEqWMA0t3x-fsysB9/view?usp=sharing
+      url: /get-involved/become-a-host
     - title: Become a Supporter (donate)
       url: /get-involved/become-a-supporter
   - title: Blog
@@ -160,18 +160,18 @@ params:
     title: Previous School's Testimonies
     subtitle: 
     clients:
-    - name: Irma Walters
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+    - name: Kalonji A Tshisekedi
+      quote: Thank you to all the organizers, lecturers and helpers @DataSciSchools. This has been a life changing experience. I cannot wait to share the knowledge with other emerging young scientists. Let's do this!
       job: Student
-      img: 1
-    - name: John Bradley
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Pos-doc
-      img: 2
-    - name: Gary Blackman
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Professor
-      img: 3
+      img: 
+    - name: Humberto Castellon 
+      quote: "Among the many things that #dataSanJose19 left me is inspiration to learn/practice more and not stopping until you achieve your goals."
+      job: Adjunct Professor of Computer Science
+      img: 
+    - name: Ola Karrar
+      quote: "It has been the most exiting two months in my life. Many people to thanks, but first of all I would like to thanks my family in CODATA-RDA summer schools to offer me such opportunity."
+      job: Student
+      img: 
   section5: false
   footer:
     # Logo (from /images/logos/___)
